@@ -581,7 +581,7 @@ function kzsinhubLib:Start(GuiConfig)
     CloseButton.Name = "CloseButton"
     CloseButton.Parent = Top
 
-    CloseImage.Image = "rbxassetid://0"
+    CloseImage.Image = "rbxassetid://18328658828"
     CloseImage.AnchorPoint = Vector2.new(0.5, 0.5)
     CloseImage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     CloseImage.BackgroundTransparency = 0.9990000128746033
@@ -631,7 +631,7 @@ function kzsinhubLib:Start(GuiConfig)
     
     MinimizeButton.Size = UDim2.fromOffset(35, 35)
     MinimizeButton.Position = UDim2.fromScale(0.10, 0.30)
-    MinimizeButton.BackgroundTransparency = 1
+    MinimizeButton.BackgroundTransparency = 0
     MinimizeButton.Image = "rbxassetid://0"
     MinimizeButton.BackgroundColor3 = GuiConfig["Color"]
     MinimizeButton.AutoButtonColor = false
