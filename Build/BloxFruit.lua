@@ -1,8 +1,8 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/kzsin-hub/refs/heads/main/Library/V1"))()
 
 local Window = Library:Start({
-  ["Name"] = "kzsin Hub",
-  ["SaveFolder"] = "kzsin Hub"
+  ["Name"] = "Kzsin Hub",
+  ["SaveFolder"] = "Kzsin Hub"
 })
 
 local Players = game:GetService("Players")
