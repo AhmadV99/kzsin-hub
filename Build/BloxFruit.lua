@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Main/main/Library/V3.5"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/kzsin-hub/refs/heads/main/Library/V1"))()
 
 local Window = Library:Start({
   ["Name"] = "kzsin Hub",
